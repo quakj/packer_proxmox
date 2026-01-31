@@ -1,0 +1,5 @@
+.idea/
+ubuntu-server-docker/credentials.pkrvars.hcl
+
+ubuntu-server/variables.pkrvars.hcl
+
