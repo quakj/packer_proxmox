@@ -1,5 +1,9 @@
 .idea/
-ubuntu-server-docker/credentials.pkrvars.hcl
 
-ubuntu-server/variables.pkrvars.hcl
+packer_cache/
 
+crash.log
+
+*.pkrvars.hcl
+
+*.box
